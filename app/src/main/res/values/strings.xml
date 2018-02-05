@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Poncho8</string>
+
+  <string name="home_url">https://loyalty.poncho8.com/home</string>
+
+  <string name="host_uri">poncho8.com</string>
+</resources>
